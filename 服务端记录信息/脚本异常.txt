@@ -1,0 +1,195 @@
+
+------------------------ 2019-06-06 00:48:07 ------------------------
+Unhandled portal script tutoChatNPC on map 10000
+------------------------ 2019-06-06 00:50:26 ------------------------
+Unhandled portal script infoMinimap on map 10000
+------------------------ 2019-06-13 13:17:52 ------------------------
+Error executing NPC script, NPC ID : 1012002_0.java.lang.NoSuchMethodException: no such method: action
+------------------------ 2019-06-13 13:17:57 ------------------------
+Error executing NPC script, NPC ID : 1012002_0.java.lang.NoSuchMethodException: no such method: action
+------------------------ 2019-06-13 13:25:00 ------------------------
+Error executing NPC script, NPC ID : 9330078_1000.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 是否主城 in object scripting.NPCConversationManager@1712e63. (<Unknown source>#24) in <Unknown source> at line number 24
+------------------------ 2019-06-13 13:25:13 ------------------------
+Error executing NPC script, NPC ID : 9900004_7.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 判断抽钓鱼雇佣 in object scripting.NPCConversationManager@1959caa. (<Unknown source>#28) in <Unknown source> at line number 28
+------------------------ 2019-06-13 13:28:33 ------------------------
+Error executing NPC script, NPC ID : 9900004_34.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示技能伤害 in object scripting.NPCConversationManager@19c4fad. (<Unknown source>#40) in <Unknown source> at line number 40
+------------------------ 2019-06-13 13:28:38 ------------------------
+Error executing NPC script, NPC ID : 9900004_31.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 狩猎任务杀怪数量 in object scripting.NPCConversationManager@d1d00. (<Unknown source>#53) in <Unknown source> at line number 53
+------------------------ 2019-06-13 13:37:59 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示职业数量统计 in object scripting.NPCConversationManager@1c80887. (<Unknown source>#170) in <Unknown source> at line number 170
+------------------------ 2019-06-13 13:39:05 ------------------------
+Error executing NPC script, NPC ID : 9900004_34.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示技能伤害 in object scripting.NPCConversationManager@1a96838. (<Unknown source>#40) in <Unknown source> at line number 40
+------------------------ 2019-06-13 13:39:19 ------------------------
+Error executing NPC script, NPC ID : 9900004_31.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 狩猎任务杀怪数量 in object scripting.NPCConversationManager@b0b7b7. (<Unknown source>#53) in <Unknown source> at line number 53
+------------------------ 2019-06-13 13:42:02 ------------------------
+Error executing NPC script, NPC ID : 9900004_1.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 重生套 in object client.MapleCharacter@5399f6. (<Unknown source>#82) in <Unknown source> at line number 82
+------------------------ 2019-06-13 13:42:10 ------------------------
+Error executing NPC script, NPC ID : 9900004_1.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 重生套 in object client.MapleCharacter@5399f6. (<Unknown source>#82) in <Unknown source> at line number 82
+------------------------ 2019-06-13 14:16:59 ------------------------
+Error executing NPC script, NPC ID : 9330078_1000.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 是否主城 in object scripting.NPCConversationManager@1570f50. (<Unknown source>#24) in <Unknown source> at line number 24
+------------------------ 2019-06-13 14:45:18 ------------------------
+Unhandled portal script infoAttack on map 40000
+------------------------ 2019-06-13 14:52:22 ------------------------
+Unhandled portal script infoAttack on map 40000
+------------------------ 2019-06-13 14:54:56 ------------------------
+Error executing NPC script, NPC ID : 9900004_400.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 判断师傅 in object client.MapleCharacter@1c2113a. (<Unknown source>#26) in <Unknown source> at line number 26
+------------------------ 2019-06-13 15:02:56 ------------------------
+Error executing NPC script, NPC ID : 9900004_301.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示聊天频道 in object scripting.NPCConversationManager@11305a8. (<Unknown source>#28) in <Unknown source> at line number 28
+------------------------ 2019-06-13 15:03:23 ------------------------
+Error executing NPC script, NPC ID : 9900004_300.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示所有赌博房间 in object scripting.NPCConversationManager@36c7cf. (<Unknown source>#25) in <Unknown source> at line number 25
+------------------------ 2019-06-13 15:03:40 ------------------------
+Error executing NPC script, NPC ID : 9900004_600.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 一等奖彩票 in object scripting.NPCConversationManager@a6d486. (<Unknown source>#34) in <Unknown source> at line number 34
+------------------------ 2019-06-13 15:03:44 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示职业数量统计 in object scripting.NPCConversationManager@13a5767. (<Unknown source>#206) in <Unknown source> at line number 206
+------------------------ 2019-06-13 15:14:40 ------------------------
+Error executing NPC script, NPC ID : 9900004_19.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 运行时间 in object scripting.NPCConversationManager@d040d1. (<Unknown source>#116) in <Unknown source> at line number 116
+------------------------ 2019-06-13 15:15:40 ------------------------
+Error executing NPC script, NPC ID : 9900004_210.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 世界怪物击杀记录 in object scripting.NPCConversationManager@d94592. (<Unknown source>#34) in <Unknown source> at line number 34
+------------------------ 2019-06-13 15:19:28 ------------------------
+Error executing NPC script, NPC ID : 9900004_23.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 获取领地主权 in object scripting.NPCConversationManager@1f7b925. (<Unknown source>#40) in <Unknown source> at line number 40
+------------------------ 2019-06-13 15:20:05 ------------------------
+Error executing NPC script, NPC ID : 9900004_31.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 狩猎任务杀怪数量 in object scripting.NPCConversationManager@134332a. (<Unknown source>#121) in <Unknown source> at line number 121
+------------------------ 2019-06-13 15:44:44 ------------------------
+Error executing NPC script, NPC ID : 9330078_1000.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 是否主城 in object scripting.NPCConversationManager@1c2fa25. (<Unknown source>#24) in <Unknown source> at line number 24
+------------------------ 2019-06-13 15:51:05 ------------------------
+Unhandled portal script infoAttack on map 40000
+------------------------ 2019-06-13 15:51:22 ------------------------
+Unhandled portal script infoPickup on map 40000
+------------------------ 2019-06-13 15:52:54 ------------------------
+Unhandled portal script infoSkill on map 40000
+------------------------ 2019-06-13 15:56:58 ------------------------
+Unhandled portal script infoReactor on map 1000000
+------------------------ 2019-06-13 16:02:16 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Cannot convert 蜗牛 to java.lang.Integer (<Unknown source>#39) in <Unknown source> at line number 39
+------------------------ 2019-06-13 17:43:59 ------------------------
+Error executing NPC script, NPC ID : 9900004_1.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 重生套 in object client.MapleCharacter@9a9307. (<Unknown source>#84) in <Unknown source> at line number 84
+------------------------ 2019-06-13 17:44:03 ------------------------
+Error executing NPC script, NPC ID : 9900004_1.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 重生套 in object client.MapleCharacter@9a9307. (<Unknown source>#84) in <Unknown source> at line number 84
+------------------------ 2019-06-13 17:44:10 ------------------------
+Error executing NPC script, NPC ID : 9900004_10.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 运行时间 in object scripting.NPCConversationManager@1f6d953. (<Unknown source>#26) in <Unknown source> at line number 26
+------------------------ 2019-06-13 17:44:50 ------------------------
+Error executing NPC script, NPC ID : 9900004_34.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示技能伤害 in object scripting.NPCConversationManager@292087. (<Unknown source>#40) in <Unknown source> at line number 40
+------------------------ 2019-06-13 17:49:02 ------------------------
+Error executing NPC script, NPC ID : 9900004_600.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 一等奖彩票 in object scripting.NPCConversationManager@1fcde5c. (<Unknown source>#34) in <Unknown source> at line number 34
+------------------------ 2019-06-13 18:49:55 ------------------------
+Error executing NPC script, NPC ID : 9900004_2001.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Can't find method scripting.NPCConversationManager.显示手册内容(number,number). (<Unknown source>#31) in <Unknown source> at line number 31
+------------------------ 2019-06-13 18:50:48 ------------------------
+Error executing NPC script, NPC ID : 9900004_31.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 获取角色潜能孔数 in object client.MapleCharacter@9a9307. (<Unknown source>#94) in <Unknown source> at line number 94
+------------------------ 2019-06-13 18:52:16 ------------------------
+Error executing NPC script, NPC ID : 9900004_23.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 获取领地主权 in object scripting.NPCConversationManager@1975ce8. (<Unknown source>#40) in <Unknown source> at line number 40
+------------------------ 2019-06-13 18:52:21 ------------------------
+Error executing NPC script, NPC ID : 9900004_71447503.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 获取角色潜能汇总值 in object client.MapleCharacter@9a9307. (<Unknown source>#35) in <Unknown source> at line number 35
+------------------------ 2019-06-13 18:54:07 ------------------------
+Error executing NPC script, NPC ID : 9900004_301.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示聊天频道 in object scripting.NPCConversationManager@1d580a4. (<Unknown source>#28) in <Unknown source> at line number 28
+------------------------ 2019-06-13 18:54:13 ------------------------
+Error executing NPC script, NPC ID : 9900004_210.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 世界怪物击杀记录 in object scripting.NPCConversationManager@1b28d56. (<Unknown source>#34) in <Unknown source> at line number 34
+------------------------ 2019-06-13 18:54:23 ------------------------
+Error executing NPC script, NPC ID : 2000_12.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 怪物击杀记录 in object scripting.NPCConversationManager@59683e. (<Unknown source>#22) in <Unknown source> at line number 22
+------------------------ 2019-06-13 18:55:51 ------------------------
+Error executing NPC script, NPC ID : 9900004_400.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 判断师傅 in object client.MapleCharacter@9a9307. (<Unknown source>#26) in <Unknown source> at line number 26
+------------------------ 2019-06-13 18:56:03 ------------------------
+Error executing NPC script, NPC ID : 9900004_300.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示所有赌博房间 in object scripting.NPCConversationManager@d5bcc4. (<Unknown source>#25) in <Unknown source> at line number 25
+------------------------ 2019-06-13 18:56:09 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示职业数量统计 in object scripting.NPCConversationManager@a0f7f4. (<Unknown source>#206) in <Unknown source> at line number 206
+------------------------ 2019-06-13 18:56:12 ------------------------
+Error executing NPC script, NPC ID : 9900004_600.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 一等奖彩票 in object scripting.NPCConversationManager@ba6df3. (<Unknown source>#34) in <Unknown source> at line number 34
+------------------------ 2019-06-13 18:59:24 ------------------------
+Unhandled portal script photoOut on map 970000000
+------------------------ 2019-06-13 19:04:11 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: ReferenceError: "selStr" is not defined. (<Unknown source>#72) in <Unknown source> at line number 72
+------------------------ 2019-06-13 19:04:13 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: ReferenceError: "selStr" is not defined. (<Unknown source>#72) in <Unknown source> at line number 72
+------------------------ 2019-06-13 19:05:12 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: ReferenceError: "selStr" is not defined. (<Unknown source>#86) in <Unknown source> at line number 86
+------------------------ 2019-06-13 19:06:10 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: ReferenceError: "selStr" is not defined. (<Unknown source>#86) in <Unknown source> at line number 86
+------------------------ 2019-06-13 19:11:04 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: ReferenceError: "year" is not defined. (<Unknown source>#41) in <Unknown source> at line number 41
+------------------------ 2019-06-13 21:20:57 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 设置师傅 in object client.MapleCharacter@1ea136c. (<Unknown source>#51) in <Unknown source> at line number 51
+------------------------ 2019-06-13 21:20:59 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 设置师傅 in object client.MapleCharacter@1ea136c. (<Unknown source>#51) in <Unknown source> at line number 51
+------------------------ 2019-06-13 21:21:05 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 设置师傅 in object client.MapleCharacter@1ea136c. (<Unknown source>#51) in <Unknown source> at line number 51
+------------------------ 2019-06-13 21:21:26 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 设置师傅 in object client.MapleCharacter@1ea136c. (<Unknown source>#51) in <Unknown source> at line number 51
+------------------------ 2019-06-13 21:24:02 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 设置师傅 in object client.MapleCharacter@1ea136c. (<Unknown source>#51) in <Unknown source> at line number 51
+------------------------ 2019-06-13 21:24:03 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 设置师傅 in object client.MapleCharacter@1ea136c. (<Unknown source>#51) in <Unknown source> at line number 51
+------------------------ 2019-06-13 22:32:37 ------------------------
+Error executing NPC script, NPC ID : 2000_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.WrappedException: Wrapped java.lang.RuntimeException: Datafile 00000-1.img does not exist in D:\zevms服务端\ZEVMS冒险岛游戏服务端\wz\Mob.wz (<Unknown source>#26) in <Unknown source> at line number 26
+------------------------ 2019-06-13 22:34:56 ------------------------
+Error executing NPC script, NPC ID : 2000_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.WrappedException: Wrapped java.lang.RuntimeException: Datafile 00000-1.img does not exist in D:\zevms服务端\ZEVMS冒险岛游戏服务端\wz\Mob.wz (<Unknown source>#26) in <Unknown source> at line number 26
+------------------------ 2019-06-13 22:37:58 ------------------------
+Error executing NPC script, NPC ID : 2000_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.WrappedException: Wrapped java.lang.RuntimeException: Datafile 00000-1.img does not exist in D:\zevms服务端\ZEVMS冒险岛游戏服务端\wz\Mob.wz (<Unknown source>#26) in <Unknown source> at line number 26
+------------------------ 2019-06-13 22:39:54 ------------------------
+Error executing NPC script, NPC ID : 2000_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.WrappedException: Wrapped java.lang.RuntimeException: Datafile 00000-1.img does not exist in D:\zevms服务端\ZEVMS冒险岛游戏服务端\wz\Mob.wz (<Unknown source>#26) in <Unknown source> at line number 26
+------------------------ 2019-06-13 22:40:45 ------------------------
+Error executing NPC script, NPC ID : 2000_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 怪物详细 in object scripting.NPCConversationManager@4a6ab5. (<Unknown source>#34) in <Unknown source> at line number 34
+------------------------ 2019-06-13 22:41:16 ------------------------
+Error executing NPC script, NPC ID : 2000_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 怪物详细 in object scripting.NPCConversationManager@35d4a9. (<Unknown source>#34) in <Unknown source> at line number 34
+------------------------ 2019-06-13 22:45:16 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: ReferenceError: "清理背包开关" is not defined. (<Unknown source>#90) in <Unknown source> at line number 90
+------------------------ 2019-06-13 22:52:30 ------------------------
+Error executing NPC script, NPC ID : 2007_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Java class "client.MapleCharacter" has no public instance field or method named "物显显码". (<Unknown source>#238) in <Unknown source> at line number 238
+------------------------ 2019-06-13 22:55:19 ------------------------
+Error executing NPC script, NPC ID : 2007_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Java class "client.MapleCharacter" has no public instance field or method named "物品显码". (<Unknown source>#234) in <Unknown source> at line number 234
+------------------------ 2019-06-13 22:55:22 ------------------------
+Error executing NPC script, NPC ID : 2007_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Java class "client.MapleCharacter" has no public instance field or method named "物品显码". (<Unknown source>#238) in <Unknown source> at line number 238
+------------------------ 2019-06-13 22:55:49 ------------------------
+Error executing NPC script, NPC ID : 2007_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Java class "client.MapleCharacter" has no public instance field or method named "附魔显示". (<Unknown source>#225) in <Unknown source> at line number 225
+------------------------ 2019-06-13 22:55:54 ------------------------
+Error executing NPC script, NPC ID : 2007_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Java class "client.MapleCharacter" has no public instance field or method named "被查找". (<Unknown source>#251) in <Unknown source> at line number 251
+------------------------ 2019-06-13 22:56:00 ------------------------
+Error executing NPC script, NPC ID : 2007_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Java class "client.MapleCharacter" has no public instance field or method named "伤害显示". (<Unknown source>#371) in <Unknown source> at line number 371
+------------------------ 2019-06-13 22:56:23 ------------------------
+Error executing NPC script, NPC ID : 2007_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Java class "client.MapleCharacter" has no public instance field or method named "升级快讯2". (<Unknown source>#407) in <Unknown source> at line number 407
+------------------------ 2019-06-13 22:56:28 ------------------------
+Error executing NPC script, NPC ID : 2007_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Java class "client.MapleCharacter" has no public instance field or method named "延迟爆物". (<Unknown source>#212) in <Unknown source> at line number 212
+------------------------ 2019-06-13 22:57:26 ------------------------
+Error executing NPC script, NPC ID : 2007_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Java class "client.MapleCharacter" has no public instance field or method named "领地显示". (<Unknown source>#275) in <Unknown source> at line number 275
+------------------------ 2019-06-13 22:57:30 ------------------------
+Error executing NPC script, NPC ID : 2007_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Java class "client.MapleCharacter" has no public instance field or method named "个人信息". (<Unknown source>#395) in <Unknown source> at line number 395
+------------------------ 2019-06-13 22:57:34 ------------------------
+Error executing NPC script, NPC ID : 2007_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EvaluatorException: Java class "client.MapleCharacter" has no public instance field or method named "经验获取". (<Unknown source>#383) in <Unknown source> at line number 383
+------------------------ 2019-06-14 00:09:06 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 设置师傅 in object client.MapleCharacter@161fb68. (<Unknown source>#49) in <Unknown source> at line number 49
+------------------------ 2019-06-14 00:09:08 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 设置师傅 in object client.MapleCharacter@161fb68. (<Unknown source>#49) in <Unknown source> at line number 49
+------------------------ 2019-06-14 00:10:24 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 设置师傅 in object client.MapleCharacter@161fb68. (<Unknown source>#49) in <Unknown source> at line number 49
+------------------------ 2019-06-14 00:10:51 ------------------------
+Error executing NPC script, NPC ID : 9900004_71447501.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示违规账号 in object scripting.NPCConversationManager@1612dfa. (<Unknown source>#26) in <Unknown source> at line number 26
+------------------------ 2019-06-14 00:10:59 ------------------------
+Error executing NPC script, NPC ID : 9330078_1000.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 是否主城 in object scripting.NPCConversationManager@106c909. (<Unknown source>#24) in <Unknown source> at line number 24
+------------------------ 2019-06-14 00:11:20 ------------------------
+Error executing NPC script, NPC ID : 9900004_31.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 获取角色潜能孔数 in object client.MapleCharacter@161fb68. (<Unknown source>#94) in <Unknown source> at line number 94
+------------------------ 2019-06-14 00:11:36 ------------------------
+Error executing NPC script, NPC ID : 9900004_19.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 运行时间 in object scripting.NPCConversationManager@2952ed. (<Unknown source>#116) in <Unknown source> at line number 116
+------------------------ 2019-06-14 00:12:19 ------------------------
+Error executing NPC script, NPC ID : 9900004_23.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 获取领地主权 in object scripting.NPCConversationManager@1815fde. (<Unknown source>#40) in <Unknown source> at line number 40
+------------------------ 2019-06-14 00:12:23 ------------------------
+Error executing NPC script, NPC ID : 9900004_10.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 运行时间 in object scripting.NPCConversationManager@9a6237. (<Unknown source>#26) in <Unknown source> at line number 26
+------------------------ 2019-06-14 00:12:26 ------------------------
+Error executing NPC script, NPC ID : 9900004_34.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示技能伤害 in object scripting.NPCConversationManager@1d2897d. (<Unknown source>#40) in <Unknown source> at line number 40
+------------------------ 2019-06-14 00:12:28 ------------------------
+Error executing NPC script, NPC ID : 9900004_71447503.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 获取角色潜能汇总值 in object client.MapleCharacter@161fb68. (<Unknown source>#35) in <Unknown source> at line number 35
+------------------------ 2019-06-14 00:12:31 ------------------------
+Error executing NPC script, NPC ID : 9900004_210.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 世界怪物击杀记录 in object scripting.NPCConversationManager@1969801. (<Unknown source>#34) in <Unknown source> at line number 34
+------------------------ 2019-06-14 00:12:36 ------------------------
+Error executing NPC script, NPC ID : 9900004_300.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示所有赌博房间 in object scripting.NPCConversationManager@19f9024. (<Unknown source>#25) in <Unknown source> at line number 25
+------------------------ 2019-06-14 00:12:39 ------------------------
+Error executing NPC script, NPC ID : 9900004_600.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 一等奖彩票 in object scripting.NPCConversationManager@8f36cd. (<Unknown source>#34) in <Unknown source> at line number 34
+------------------------ 2019-06-14 00:28:01 ------------------------
+Error executing NPC script, NPC ID : 9900004_500.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 判断是否已经开设房间 in object scripting.NPCConversationManager@19740ae. (<Unknown source>#25) in <Unknown source> at line number 25
+------------------------ 2019-06-14 00:28:14 ------------------------
+Error executing NPC script, NPC ID : 9900004_301.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 显示聊天频道 in object scripting.NPCConversationManager@9f5513. (<Unknown source>#28) in <Unknown source> at line number 28
+------------------------ 2019-06-14 00:28:21 ------------------------
+Error executing NPC script, NPC ID : 9900004_10.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: TypeError: Cannot find function 运行时间 in object scripting.NPCConversationManager@a2d82d. (<Unknown source>#26) in <Unknown source> at line number 26
+------------------------ 2019-06-14 00:32:24 ------------------------
+Error executing NPC script, NPC ID : 9900004_0.javax.script.ScriptException: sun.org.mozilla.javascript.internal.EcmaError: ReferenceError: "金币商行" is not defined. (<Unknown source>#77) in <Unknown source> at line number 77
+------------------------ 2020-02-15 16:38:43 ------------------------
+Unhandled portal script tutoChatNPC on map 10000
+------------------------ 2020-02-15 17:13:06 ------------------------
+Unhandled portal script tutoChatNPC on map 10000
